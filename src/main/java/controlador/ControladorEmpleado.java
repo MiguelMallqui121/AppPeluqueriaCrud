@@ -11,7 +11,6 @@ import javax.swing.JOptionPane;
 import javax.swing.JTable;
 import javax.swing.table.DefaultTableModel;
 import modelo.Empleado;
-import vista.InterCliente;
 import vista.InterEmpleado;
 import vista.InterLeyenda;
 
